@@ -4,7 +4,7 @@
       <p>Repository for MK Star Reduction scripts by Mohammed Khalifa (mhk.astro).</p>
    </description>
    <platform os="all" arch="all" version="all">
-      <package fileName="mk_star_reduction.zip" sha1="" type="script" releaseDate="20260723">
+      <package fileName="mk_star_reduction.zip" sha1="3CB94EB0FE40770C1669A3E4E74A8E90714E748F" type="script" releaseDate="20260724">
          <title>
             MK Star Reduction
          </title>
