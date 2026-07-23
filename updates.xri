@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>Repository for MK Star Reduction scripts by Mohammed Khalifa (mhk.astro).</p>
+   </description>
+   <platform os="all" arch="all" version="1.9.4:1.9.9999">
+      <package fileName="mk_star_reduction.zip" sha1="3CB94EB0FE40770C1669A3E4E74A8E90714E748F" type="script" releaseDate="20260725">
+         <title>
+            MK Star Reduction
+         </title>
+         <description>
+            <p>Performs precise star reduction using the Transfer Method with live preview controls.</p>
+         </description>
+      </package>
+   </platform>
+</xri>
